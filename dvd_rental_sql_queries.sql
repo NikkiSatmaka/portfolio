@@ -1,8 +1,9 @@
 /*
-Hi Thank you for reviewing my work, please don't hesitate to give any feedback. I really want to improve in this field. Generally, I use the question set as a guideline, but I modify some of the questions along the way to analyze questions that I think are interesting to explore.
+Hi my name is Nurfaldi and this is the SQL queries that I documented for the DVD Rental project analysis which available at dvd_rental_analysis.pdf in main folder.
 
 The data can be fetched here https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
 
+Enjoy!
 
 Query 1
 Topic: Movie category, rental time, and rental rate
